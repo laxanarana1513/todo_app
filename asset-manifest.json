@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todo_app/static/css/main.fe83f64b.css",
+    "main.js": "/todo_app/static/js/main.625f0cbd.js",
+    "static/js/787.63e47474.chunk.js": "/todo_app/static/js/787.63e47474.chunk.js",
+    "static/media/bg.jpg": "/todo_app/static/media/bg.f9038a93c8d1da8aa9a6.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/todo_app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/todo_app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/todo_app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/todo_app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/todo_app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/todo_app/index.html",
+    "main.fe83f64b.css.map": "/todo_app/static/css/main.fe83f64b.css.map",
+    "main.625f0cbd.js.map": "/todo_app/static/js/main.625f0cbd.js.map",
+    "787.63e47474.chunk.js.map": "/todo_app/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe83f64b.css",
+    "static/js/main.625f0cbd.js"
+  ]
+}
