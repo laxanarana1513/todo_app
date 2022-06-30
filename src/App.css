@@ -59,8 +59,8 @@
 .card-header {
   margin-top: 10px;
   margin-bottom: 10px;
-  height: 30px;
-  padding: 1px 1px !important;
+  height: auto;
+  padding: 5px 5px !important;
   text-align: center;
 }
 
